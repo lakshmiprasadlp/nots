@@ -4,9 +4,8 @@
 
 This is a brief description of what your Docker.
 
-## Installation
+## to buld the image
 
-
-```bash
-npm install
+```
+docker build -t <imagename> .
 ```
