@@ -16,7 +16,7 @@ docker build -t <imagename> .
 docker images 
 ```
 
-## to see all  images
+## to runn the images
 ```
 docker run -d -p <sys pot>:<conterpot> <conter name>
 ```
@@ -24,4 +24,18 @@ docker run -d -p <sys pot>:<conterpot> <conter name>
 ### example
 ```
 docker run -d -p 5000:5000 helloapp
+```
+
+## to check running container 
+```
+docker ps
+```
+## to check all container 
+```
+docker ps -a
+```
+
+## to stop immage
+```
+docker stop  <immagr id>
 ```
