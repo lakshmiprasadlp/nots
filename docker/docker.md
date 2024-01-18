@@ -21,6 +21,11 @@ docker images
 docker run -d -p <sys pot>:<conterpot> <conter name>
 ```
 
+## to runn the images
+```
+docker run -it  <conter name>  /bin/bash
+```
+
 ### example
 ```
 docker run -d -p 5000:5000 helloapp
