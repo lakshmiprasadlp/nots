@@ -1,3 +1,1 @@
-'''
-lp.pk
-'''
+`npm install package-name`
