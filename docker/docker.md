@@ -1,14 +1,12 @@
-`npm install package-name`
 
-# Project Title
+# Docker commands and discripation
 
-## Description
 
-This is a brief description of what your project is about.
+This is a brief description of what your Docker.
 
 ## Installation
 
-To install the project dependencies, use the following command:
 
 ```bash
 npm install
+```
