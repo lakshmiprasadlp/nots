@@ -39,3 +39,17 @@ docker ps -a
 ```
 docker stop  <immagr id>
 ```
+# to logine 
+```
+docker login
+```
+
+# to push docker hub
+```
+docker tag <image name> <user name>/<repo name>
+```
+
+# to pull the immage
+```
+docker push <user name>/<repo name>
+```
