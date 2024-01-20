@@ -6,3 +6,8 @@ conda activate venv\
 pip install -r requirements.txt
 
  ```
+
+ # to install jubiter notbook
+ ```
+ pip install ipykernel
+ ```
