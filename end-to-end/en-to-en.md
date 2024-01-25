@@ -11,3 +11,26 @@ pip install -r requirements.txt
  ```
  pip install ipykernel
  ```
+
+ # install setup .py
+ ```
+ python setup.py install
+ ```
+
+ # to set env variable
+
+ ### Unix/Linux/Mac:
+ ```
+ export MONGODB_URL="your_actual_mongodb_url"
+ ```
+
+ ### windose (git blash)
+ ```
+ set MONGODB_URL=your_actual_mongodb_url
+
+ ```
+
+ ### Windows (PowerShell):
+ ```
+ $env:MONGODB_URL = "your_actual_mongodb_url"
+ ```
